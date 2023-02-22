@@ -6,6 +6,8 @@ Esta es una implementación del algoritmo de Galey-Shapley (algoritmo de aceptac
 
 ### Ver video tutoriales:
 
+youtube
+
 
 Esta versión cuenta con tres posibles modos de funcionamiento, para entenderlos, es necesario introducir el concepto de preferencia imputada por distancia dentro del proceso de asignación:
 
