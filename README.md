@@ -1,5 +1,3 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_matricula-digital-peru&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_matricula-digital-peru)
-
 # Algoritmo de aceptación escolar - Tacna, Perú
 
 Esta es una implementación del algoritmo de Galey-Shapley (algoritmo de aceptación diferida) para la asignación vacantes en instituciones educativas en Tacna, Perú.
