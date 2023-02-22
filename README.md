@@ -4,6 +4,9 @@
 
 Esta es una implementación del algoritmo de Galey-Shapley (algoritmo de aceptación diferida) para la asignación vacantes en instituciones educativas en Tacna, Perú.
 
+# Ver video tutoriales:
+
+
 Esta versión cuenta con tres posibles modos de funcionamiento, para entenderlos, es necesario introducir el concepto de preferencia imputada por distancia dentro del proceso de asignación:
 
 ### Preferencia imputada por distancia
