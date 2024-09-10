@@ -1,4 +1,3 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_matricula-digital-tacna&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_matricula-digital-tacna)
 
 # Algoritmo de aceptación escolar - Tacna, Perú
 
